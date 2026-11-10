@@ -3,7 +3,6 @@
   "url": "https://datacircle.dev/docs/mcp",
   "category": "marketing",
   "transport": "http",
-  "description": "Datacircle lists all the GTM APIs. Our MCP server is open to anyone, with no key: add api.datacircle.dev/mcp to Claude, ChatGPT or Cursor. Endpoint: `https://api.datacircle.dev/mcp` · [Website](https://datacircle.dev) · Registry: `dev.datacircle/datacircle`",
-  "endpoint": "https://api.datacircle.dev/mcp",
-  "registry": "dev.datacircle/datacircle"
+  "description": "Find the best GTM APIs. Open to anyone, no key: list_apis lists the GTM APIs and search_plans finds their plans by API, provider or price, with scores. [datacircle.dev](https://datacircle.dev)",
+  "endpoint": "https://api.datacircle.dev/mcp"
 }
